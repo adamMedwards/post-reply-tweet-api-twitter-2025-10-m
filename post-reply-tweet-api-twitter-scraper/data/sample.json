@@ -1,0 +1,8 @@
+[
+    {
+        "tweetId": "1234567890",
+        "tweetContent": "This is an automated tweet!",
+        "mediaUrl": "https://example.com/media.jpg",
+        "replyTweetId": "0987654321"
+    }
+]
